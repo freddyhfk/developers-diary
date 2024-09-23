@@ -1,0 +1,23 @@
+*About the structure:*
+
+To start of this notebook is devided in four categories. These are:
+
+* cheatsheets
+** collections for commands for a special technologies
+* learnings
+** for collecting work related Ooupsie's
+* tech
+** for deep diving into new topics
+* tooling
+** to manifest a workset of useful configurations
+** in case this section gets too spacious, I will consider moving it into a separate project
+
+Each of these sections has a separate folder containing each a file with the same name. This should form an entry point to each of the sections to be included to the
+link:index.adoc[index file]. Within the folders each topic should get a separate file.
+
+*Chapters:*
+
+1. link:{docdir}/cheetsheets/cheatsheets.adoc[Cheetsheets]
+2. link:{docdir}/learnings/learning.adoc[Learnings]
+3. link:{docdir}/tech/tech.adoc[Tech]
+4. link:{docdir}/tooling/tooling.adoc[Tooling]

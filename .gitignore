@@ -1,0 +1,6 @@
+# IntelliJ IDEA specific files/directories
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
